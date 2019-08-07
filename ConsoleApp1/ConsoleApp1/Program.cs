@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             111110
-               int a = 19;        }
+               int a = 19;
+        righiruhfiruh}
     }
 }
